@@ -1,3 +1,5 @@
+// Vowel remover
+
 function shortcut (string) {
     const vowels = ['a', 'e', 'i', 'o', 'u']; // создал массив гласных
     const symbols = string.split(''); // разбил строку на массив элементов
