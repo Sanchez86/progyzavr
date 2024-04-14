@@ -1,4 +1,4 @@
-// 
+// The highest profit wins!
 
 function minMax(arr){
   
